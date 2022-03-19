@@ -7,8 +7,8 @@
         <methods>
           <include name="ParameterizedTest"/>
           <include name="TearDown"/>
+          <include name="ExternalDataTest"/>
           <include name="SetUp"/>
-          <include name="LoginFailureTest"/>
           <include name="DataSetUp"/>
           <include name="DataTearDown"/>
         </methods>
